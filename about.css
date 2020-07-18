@@ -1,0 +1,75 @@
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+hr
+    {
+    	background-color: #FFFF00;
+
+      border-top: 1px #FFFF00 ;
+     }
+
+
+header
+{
+
+background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url('Images/g.jpg');
+height: 70vh;
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+background-attachment: fixed;
+
+}
+.navbar .navbar-nav .nav-item .nav-link
+{
+	color: #fff;
+}
+.navbar .navbar-nav .nav-item .nav-link:link,.navbar .navbar-nav .nav-item .nav-link: visited
+{
+	color: #fff;
+	margin-right: 20px;
+}
+.navbar .navbar-nav .nav-item .nav-link:hover,.navbar .navbar-nav .nav-item .nav-link:active
+{
+	color: #FF0000 ;
+	margin-right: 20px;
+	border-bottom: 1px solid #FF0000 ;
+	transition: border-bottom 0.1s;
+}
+#Lu .img-fluid
+{
+
+	vertical-align: middle;
+}
+header .headerset
+{
+font-size: 15px;
+padding-top: 200px;
+box-sizing: border-box;
+margin-top: 100px;
+  width: 300px;
+  border: 2px solid #F1202B;
+  padding: 50px;
+  border-radius: 15px 50px;
+  box-shadow: 10px 10px 5px #D31122;
+align-items: center !important; 
+  
+}
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
